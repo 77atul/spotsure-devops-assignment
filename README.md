@@ -126,6 +126,9 @@ The application is deployed on:
 - Nginx Reverse Proxy
 
 Deployment is fully automated using GitHub Actions.
+Repository:
+
+https://github.com/77atul/spotsure-devops-assignment
 
 ---
 
